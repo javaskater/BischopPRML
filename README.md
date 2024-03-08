@@ -8,3 +8,6 @@
 * The [results in the ipnb format](https://github.com/gerdm/prml)
  * note that introduction.ipynb for example is direcltly read by Github like any Jupyter Notebooks
 * Another Github project [PRML Notes](https://github.com/vagmcs/PRML/tree/master)
+
+# other resources
+* [Greek letters in Latex](https://fr.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols)
